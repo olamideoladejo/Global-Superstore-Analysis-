@@ -17,7 +17,7 @@ The data set was provided by Digitaley drive and it had 3 tables
 - Dax
 - Power BI
 
-  ### Data cleaning and transformation
+### Data cleaning and transformation
 Loaded the dataset into power query in Power BI the dataset was mostly clean, Made changes in the returns and order table by making the first row headers. Afte rwhich I loaded the tables into power bi.
 
 ### DATA MODELING
@@ -65,13 +65,13 @@ a) Who are the most valuable customers and what do they purchase?
  - Total shipping cost: $1.35M
   
 ###### Countries generating the highest profit and Top 3 products in each country
-- United state is generated highest profit in 2014 ($944k) and the Top 3 productsthat generated this profit are Canon imageClass($19k), GBC DocuBind($13k),Hewlett Packard Laser Jet ($12k).
-- India is the Second Profitable Countries With the Top 3 producta being Luxor classic pen set($2.4k), Cisco Phone($2.2k), Hamilton breach Blender ($1.9k)
-- The third most profitable country in China and the top e products in china are Bush Classic BookCase ($1.9k), BIC Cristal Pens($1.8k), Acer Aspire Laptop($1.7k)
+- United state is generated highest profit in 2014 ($944k) and the Top 3 productsthat generated this profit are Canon imageClass Copier ($16k), GBC DocuBind TL300 Electric Binding System ($1.9k),Hewlett Packard LaserJet 3310 Copies($3.6k).
+- India is the Second Profitable Countries With the Top 3 products being Sauder Classic Bookcase,Traditional ($2.4k), Cisco Smart Phone, with Caller ID ($1.6k), Hamilton Beach REfrigerator ($1.4k)
+- The third most profitable country in China and the top e products in china are Bush Classic BookCase ($1.4k), Bush Classic Bookcade, Mobile s($1.2k), HP Copy Machine, Color($1.7k)
   
 ###### Subcategories with the highest average shipping cost in the United States
 - The Top 3 subcategories the the United States by average shipping cost are Copiers($163), Machine($132), Tables($70)
-- 
+  
 ###### Nigeria’s Profit in 2014 compared to other African Countries and reasons for low profitability
 - Nigeria's profitability is lower compared to other African countries (-$23,000). One of the factors causing this could be high average discounts: Nigeria is one of the countries with high average discounts, and other countries with similarly high average discounts also have negative profits.
 
