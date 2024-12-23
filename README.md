@@ -7,7 +7,7 @@ Global Superstore is a global online retailer based in New York, boasting a broa
 The goal of this analysis is to analyze and draw out meaningful insight from the Superstore dataset which would aid management in making informed decisions to improve performance and profitability.
 
 ### Data Source
-The data set was provided by Digitaley drive and it had 3 tables
+The data set was provided by Digitaley drive and it has 3 tables
 - Order: This contains details about individual orders,including product details, customer info and sale metrics. 51290 rows and 24columns
 - Returns: Records number of returned orders. 1000 rows and 3 columns
 - People: Contains details of regional managers overseeing sales and operations.13 rows and 2 columns
@@ -64,8 +64,8 @@ a) Who are the most valuable customers and what do they purchase?
  - Average lead time: 3.97 days
  - Total shipping cost: $1.35M
   
-###### Countries generating the highest profit and Top 3 products in each country
-- United state is generated highest profit in 2014 ($944k) and the Top 3 productsthat generated this profit are Canon imageClass Copier ($16k), GBC DocuBind TL300 Electric Binding System ($1.9k),Hewlett Packard LaserJet 3310 Copies($3.6k).
+###### Countries generating the highest profit and Top 3 products in each country in 2014
+- United state generated the highest profit in 2014 ($944k) and the Top 3 productsthat generated this profit are Canon imageClass Copier ($16k), Hewlett Packard LaserJet 3310 Copies($3.6k), GBC DocuBind TL300 Electric Binding System ($1.9k).
 - India is the Second Profitable Countries With the Top 3 products being Sauder Classic Bookcase,Traditional ($2.4k), Cisco Smart Phone, with Caller ID ($1.6k), Hamilton Beach REfrigerator ($1.4k)
 - The third most profitable country in China and the top e products in china are Bush Classic BookCase ($1.4k), Bush Classic Bookcade, Mobile s($1.2k), HP Copy Machine, Color($1.7k)
   
@@ -90,4 +90,8 @@ a) Who are the most valuable customers and what do they purchase?
 - Greg Tran ($35.5k). Top purchased items: Motorola smart phone(cordless), DMI Eclipse Executive Suite
 
 ### REC0MMENDATIONS
-- Optimize shipping cost for African markets
+- Invest in marketing high selling products in US, India and China to maximize profit
+- Reduce discounts in African countries and negotiate better rate with logistics to increase profit
+- Stop sales of table and other low subcategories and invest in marketing best selling products in indonesia
+- Focus more on marketing appliances in Austrailia to maximize profit
+  
